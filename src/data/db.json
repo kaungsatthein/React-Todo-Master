@@ -1,0 +1,14 @@
+{
+  "todos": [
+    {
+      "id": "lsw1z0qf824tsxa5kuo",
+      "title": "My first todo",
+      "completed": false
+    },
+    {
+      "id": "lsw37fx9oyp3ltlcqhn",
+      "title": "My second todo",
+      "completed": true
+    }
+  ]
+}
